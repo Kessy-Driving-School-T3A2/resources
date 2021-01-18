@@ -495,6 +495,11 @@ Records of us testing features on a delployed site and localhost
 
 ---
 
+### Admin Authorization (For Educator)
+
+- username: `test`
+- passowrd: `test`
+
 ---
 
 </details>
