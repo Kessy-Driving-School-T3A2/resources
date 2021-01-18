@@ -361,6 +361,8 @@ During the actual implimentation of this planning, we might need to change certa
 
 #### Link to Git Hub Repo
 
+Github Organization: https://github.com/Kessy-Driving-School-T3A2
+
 Back End: https://github.com/Kessy-Driving-School-T3A2/T3A2-B-BackEnd
 
 Front End: https://github.com/Kessy-Driving-School-T3A2/T3A2-B-FrontEnd
