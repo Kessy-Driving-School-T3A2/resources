@@ -362,7 +362,9 @@ During the actual implimentation of this planning, we might need to change certa
 #### Link to Git Hub Repo
 
 Back End: https://github.com/Kessy-Driving-School-T3A2/T3A2-B-BackEnd
+
 Front End: https://github.com/Kessy-Driving-School-T3A2/T3A2-B-FrontEnd
+
 T3A2-A: https://github.com/Kessy-Driving-School-T3A2/T3A2-A
 
 ![](https://i.imgur.com/5pN8Gfh.png)
@@ -372,26 +374,43 @@ T3A2-A: https://github.com/Kessy-Driving-School-T3A2/T3A2-A
 ### Front End
 
 <strong>axios:</strong> Promise based HTTP client for the browser and node.js
+
 <strong>react:</strong> A JavaScript library for building user interfaces
+
 <strong>react-dom:</strong> The react-dom package provides DOM-specific methods that can be used at the top level of your app and as an escape hatch to get outside of the React model if you need to
+
 <strong>react-router-dom:</strong> DOM bindings for React Router.
+
 <strong>react-scripts:</strong> This package includes scripts and configuration used by Create React App.
+
 <strong>jest:</strong> Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+
 <strong>babel:</strong> Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
+
 <strong>enzyme:</strong> Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+
 <strong>Amazon-Web-Services:</strong>Amazon-Web-Services: The AWS SDK for JavaScript enables developers to build libraries and applications that use AWS services. You can use the JavaScript API in the browser and inside Node.js applications on the server.
 
 ### Back End
 
 <strong>Nodemon:</strong> A tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+
 <strong>body-parser:</strong>Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+
 <strong>cors:</strong> Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
+
 <strong>dotenv:</strong> A zero-dependency module that loads environment variables from a .env file into process.env.
+
 <strong>express:</strong> Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
 <strong>jsonwebtoken:</strong> JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties
+
 <strong>mongoose:</strong> Elegant MongoDB object modeling for Node.js
+
 <strong>nodemailer:</strong> Nodemailer is a module for Node.js applications to allow easy as cake email sending.
+
 <strong>nodemailer-mailgun-transport:</strong> The transport plugin that goes with nodemailer to send email using Mailgun.
+
 <strong>jest:</strong> Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 
 ---
@@ -399,6 +418,7 @@ T3A2-A: https://github.com/Kessy-Driving-School-T3A2/T3A2-A
 ## Meeting Client and User Standards
 
 From T3A2-A: https://github.com/Kessy-Driving-School-T3A2/T3A2-A
+
 Original Features to be copied over:
 
     Home Page
@@ -437,8 +457,9 @@ We successfully implemented user stories as features within the website to meet 
 
 ## Project Management Methodology
 
-Trello: https://trello.com/b/IDtzWr3T/t3a2-b
-Slack Private Messaging
+- Trello: https://trello.com/b/IDtzWr3T/t3a2-b
+
+- Slack Private Messaging
 
 ---
 
@@ -450,8 +471,9 @@ When looking through Anthony's previous works during CoderAcademy there is a lac
 
 ## Deployment
 
-Front End: https://keesydrivingschool.herokuapp.com
-Back End: https://keesydrivingschool-backend.herokuapp.com
+- Front End: https://keesydrivingschool.herokuapp.com
+
+- Back End: https://keesydrivingschool-backend.herokuapp.com
 
 ---
 
@@ -467,8 +489,9 @@ Records of us testing features on a delployed site and localhost
 
 ### Development Testing: (links to our tests)
 
--Front End: https://github.com/Kessy-Driving-School-T3A2/T3A2-B-FrontEnd/tree/main/src/tests
--Back End: https://github.com/Kessy-Driving-School-T3A2/T3A2-B-BackEnd/tree/main/tests
+- Front End: https://github.com/Kessy-Driving-School-T3A2/T3A2-B-FrontEnd/tree/main/src/tests
+
+- Back End: https://github.com/Kessy-Driving-School-T3A2/T3A2-B-BackEnd/tree/main/tests
 
 ---
 
